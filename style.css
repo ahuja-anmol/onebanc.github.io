@@ -101,8 +101,8 @@ button {
   letter-spacing: 0.1rem;
 }
 button:hover {
-  background: rgb(22, 22, 22);
-  color: rgb(158, 24, 24);
+  background: purple;
+  color: white;
 }
 
 .date-time-left {
